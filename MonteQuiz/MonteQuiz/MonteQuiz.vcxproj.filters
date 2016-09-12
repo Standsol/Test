@@ -18,5 +18,8 @@
     <ClCompile Include="quiz2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="quiz1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
